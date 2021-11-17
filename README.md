@@ -23,3 +23,5 @@
 
 
 ![](https://vistr.dev/badge?repo=tds01088.TextAPP)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
