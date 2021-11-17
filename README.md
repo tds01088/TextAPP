@@ -25,3 +25,6 @@
 ![](https://vistr.dev/badge?repo=tds01088.TextAPP)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+ ![Visitor Badge](https://visitor-badges.glitch.me?username=tds01088&repo=TextAPP)
