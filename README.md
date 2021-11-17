@@ -19,3 +19,7 @@
 
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=tds01088&show_icons=true)
+
+
+
+![](https://vistr.dev/badge?repo=tds01088/TextAPP)
