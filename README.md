@@ -22,4 +22,4 @@
 
 
 
-![](https://vistr.dev/badge?repo=tds01088/TextAPP)
+![](https://vistr.dev/badge?repo=tds01088.TextAPP)
