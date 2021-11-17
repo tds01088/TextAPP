@@ -5,6 +5,11 @@
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
+![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social)
+![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
+![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
+
 
 # Status project visitor badge
 ![](https://vistr.dev/badge?repo=tds01088.TextAP)
