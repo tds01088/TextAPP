@@ -9,4 +9,4 @@
 # Status project visitor badge
 ![](https://vistr.dev/badge?repo=tds01088.TextAP)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tds01088.visitor-badge)
